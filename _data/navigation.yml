@@ -12,6 +12,8 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /categories/
   - title: "minimal"
     url: /minimal/
   - title: "morning"
